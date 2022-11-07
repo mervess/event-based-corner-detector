@@ -1,5 +1,5 @@
 # Event-based FAST Corner Detector
-Python implementation of FAST (Event-based) Corner Detector.
+Python implementation of FAST (**F**eatures from **A**ccelerated **S**egment **T**est) Event-based Corner Detector.
 
 The [original project](https://github.com/uzh-rpg/rpg_corner_events) was implemented in C++ by the Robotics and Perception Group of ETH Zurich.
 
