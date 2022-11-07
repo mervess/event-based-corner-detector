@@ -5,7 +5,7 @@ The [original project](https://github.com/uzh-rpg/rpg_corner_events) was impleme
 
 This was a side project of mine to be used in my early research.
 
-## File decriptions
+## File descriptions
 
 ❶ [run_fast_detector.py](https://github.com/mervess/event-based-corner-detector/blob/master/run_fast_detector.py) is the (main) runnable file. In the *main* part of the code, it requires the path of the events file (*.txt*). Currently, it is hard-coded and set to "dvs/shapes_6dof/events.txt". You can find various event camera datasets [here](https://rpg.ifi.uzh.ch/software_datasets.html).
 
